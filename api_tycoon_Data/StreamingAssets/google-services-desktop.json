@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "303870000340",
+    "firebase_url": "https://apitycoon-11dee-default-rtdb.firebaseio.com",
+    "project_id": "apitycoon-11dee",
+    "storage_bucket": "apitycoon-11dee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303870000340:android:600c5d57a04157b4380f41",
+        "android_client_info": {
+          "package_name": "com.davikdavila.unity.apitycoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9acqLr7zxe7IDTvyT70YGA7ILZbhL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
